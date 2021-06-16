@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.text-area {
+  min-height: 350px;
+  min-width: 700px;
+}
+
+.radio-group {
+  display: flex;
+}
+
+.radio-group > div {
+  white-space: nowrap;
+}
